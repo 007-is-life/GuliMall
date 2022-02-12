@@ -29,3 +29,12 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 忽略模块中的指定文件
+**/mvnw
+**/mvnw.cmd
+**/.mvn
+**/target/
+
+###忽略总模块中的指定文件
+**/.gitignore
